@@ -10,10 +10,11 @@ index|question
 
 
 ### 用途
-```
-1. 用作Redis key-value中的key
-2. 用作缓存值中的字符串缓存值
-```
+类别|用途
+---|---
+(Redis)key-value|key
+缓存值|字符串缓存值
+
 
 ### C字符串比较
 ```
